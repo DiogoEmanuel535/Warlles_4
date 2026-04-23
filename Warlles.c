@@ -25,7 +25,6 @@ int main() {
 
     fclose(arquivo);
 
-    // Menu
     printf("\n=== MENU ===\n");
     printf("1 - Listar todos os alunos\n");
     printf("2 - Buscar aluno por ID\n");
